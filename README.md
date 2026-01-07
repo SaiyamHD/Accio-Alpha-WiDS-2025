@@ -1,4 +1,4 @@
-# Kalman Filtering & Quantitative Methods – Course Repository
+# Kalman Filtering & Quantitative Methods – Project Repository
 
 This repository contains week-wise implementations and experiments covering probability fundamentals, statistical modeling, time-series analysis, and Kalman filtering. The work progresses from basic mathematical intuition and Python tooling to state estimation and filtering under uncertainty.
 
